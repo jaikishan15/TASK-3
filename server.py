@@ -10,7 +10,7 @@ host_ip = socket.gethostbyname(host_name)
 print('HOST IP:', host_ip)
 print("\n===Creating socket connection===")
 port = 9999
-socket_address = ('192.168.43.67',port)
+socket_address = ('192.168.43.69',port)
 print("Socket Created")
 
 print("\t\t\t\n===Creating Socket Bind!!!===")
